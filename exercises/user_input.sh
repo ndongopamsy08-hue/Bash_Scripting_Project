@@ -5,6 +5,7 @@ read  name
 #asking for a user a age 
 echo -e  "hi please enter your age: \c"
 read  age
+#a greeting message that contain both varaibles 
 
 echo " hello $name ! you are $age years old. welcome to shell scripting "
 
