@@ -88,13 +88,3 @@ Author
 Pamsy Ndongo
 Bash scripting enthusiast | Aspiring Sysadmin & Cybersecurity Professional(networking security)
 
-
----
-
-This README **clearly documents your exercises** and looks professional for GitHub.  
-
----
-
-If you want, I can also **create a ready GitHub repo structure** with all your scripts inside, so you can **push it immediately** without worrying about folder organization.  
-
-Do you want me to do that next?
